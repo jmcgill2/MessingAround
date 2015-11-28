@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="net.sourceforge.schemacrawler:schemacrawler-postgresql:9.4" type="repository">
+    <properties maven-id="net.sourceforge.schemacrawler:schemacrawler-postgresql:9.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/schemacrawler-postgresql-9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/postgresql-9.1-901-1.jdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hsqldb-2.2.9-jdk6debug.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
